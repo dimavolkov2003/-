@@ -1,0 +1,6 @@
+C:\Users\Zver\Desktop\Курсова\SocialNetworkApplication\SocialNetworkLibrary\obj\Debug\SocialNetworkLibrary.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\Курсова\SocialNetworkApplication\SocialNetworkLibrary\obj\Debug\SocialNetworkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Курсова\SocialNetworkApplication\SocialNetworkLibrary\bin\Debug\SocialNetworkLibrary.dll
+C:\Users\Zver\Desktop\Курсова\SocialNetworkApplication\SocialNetworkLibrary\bin\Debug\SocialNetworkLibrary.pdb
+C:\Users\Zver\Desktop\Курсова\SocialNetworkApplication\SocialNetworkLibrary\obj\Debug\SocialNetworkLibrary.dll
+C:\Users\Zver\Desktop\Курсова\SocialNetworkApplication\SocialNetworkLibrary\obj\Debug\SocialNetworkLibrary.pdb
